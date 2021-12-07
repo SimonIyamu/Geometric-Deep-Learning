@@ -1,4 +1,5 @@
 # Geometric-Deep-Learning
+
 **Graph Node Classification** using **PyTorch Geometric** on the Amazon Computers dataset.
 
 This project was developed in the context of the final project of the Computational Geometry course of the Department of Informatics and Telecommunications of NKUA 2020 by **Nikolaos Soulounias** and **Simon Iyamu Perisanidis**.
